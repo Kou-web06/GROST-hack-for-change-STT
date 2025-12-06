@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "chokidar": "^4.0.3",
     "dotenv": "^17.2.3",
     "openai": "^6.9.1"
   }
